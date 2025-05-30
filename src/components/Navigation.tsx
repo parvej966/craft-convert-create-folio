@@ -1,4 +1,3 @@
-
 import { useState, useEffect } from 'react';
 import { Menu, X } from 'lucide-react';
 
@@ -50,7 +49,7 @@ const Navigation = () => {
       <div className="max-w-7xl mx-auto px-6 sm:px-8">
         <div className="flex justify-between items-center h-16">
           <div className="font-semibold text-xl text-gray-900">
-            Alex Morgan
+            UXPhilosopher
           </div>
 
           {/* Desktop Navigation */}
