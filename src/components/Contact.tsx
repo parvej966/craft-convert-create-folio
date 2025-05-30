@@ -1,6 +1,6 @@
 
 import { useState } from 'react';
-import { linkedin, Mail } from 'lucide-react';
+import { Linkedin, Mail } from 'lucide-react';
 
 const Contact = () => {
   const [formData, setFormData] = useState({
@@ -56,7 +56,7 @@ const Contact = () => {
               </div>
               
               <div className="flex items-center">
-                <linkedin className="w-6 h-6 text-gray-600 mr-4" />
+                <Linkedin className="w-6 h-6 text-gray-600 mr-4" />
                 <div>
                   <div className="font-semibold text-gray-900">LinkedIn</div>
                   <a href="https://linkedin.com/in/alexmorgan" className="text-gray-600 hover:text-gray-900 transition-colors">
