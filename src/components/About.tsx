@@ -31,7 +31,7 @@ const About = () => {
             
             <div className="space-y-6 text-lg text-gray-600 leading-relaxed">
               <p>
-                I'm Alex Morgan, a conversion-focused UX/UI designer with 8+ years of experience turning complex business challenges into intuitive digital solutions.
+                I'm Parvej Ahmed, a conversion-focused UX/UI designer with 8+ years of experience turning complex business challenges into intuitive digital solutions.
               </p>
               
               <p>
@@ -62,7 +62,7 @@ const About = () => {
             <div className="relative">
               <img 
                 src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80"
-                alt="Alex Morgan"
+                alt="Parvej Ahmed"
                 className="w-full max-w-md mx-auto rounded-2xl shadow-lg"
               />
               

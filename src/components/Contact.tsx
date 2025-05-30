@@ -49,8 +49,8 @@ const Contact = () => {
                 <Mail className="w-6 h-6 text-gray-600 mr-4" />
                 <div>
                   <div className="font-semibold text-gray-900">Email</div>
-                  <a href="mailto:alex@example.com" className="text-gray-600 hover:text-gray-900 transition-colors">
-                    alex@example.com
+                  <a href="mailto:parvej@example.com" className="text-gray-600 hover:text-gray-900 transition-colors">
+                    parvej@example.com
                   </a>
                 </div>
               </div>
@@ -59,8 +59,8 @@ const Contact = () => {
                 <Linkedin className="w-6 h-6 text-gray-600 mr-4" />
                 <div>
                   <div className="font-semibold text-gray-900">LinkedIn</div>
-                  <a href="https://linkedin.com/in/alexmorgan" className="text-gray-600 hover:text-gray-900 transition-colors">
-                    linkedin.com/in/alexmorgan
+                  <a href="https://linkedin.com/in/parvejahmed" className="text-gray-600 hover:text-gray-900 transition-colors">
+                    linkedin.com/in/parvejahmed
                   </a>
                 </div>
               </div>
