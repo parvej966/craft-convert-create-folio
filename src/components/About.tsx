@@ -61,7 +61,7 @@ const About = () => {
           <div className="lg:pl-8">
             <div className="relative">
               <img 
-                src="https://drive.google.com/file/d/1Z4R2CFPMCdLYM1sLq3EuA3LXhCwQ-fi6/view?usp=sharing&auto=format&fit=crop&w=600&q=80"
+                src="https://unsplash.com/photos/b_oPtsbWXrw&auto=format&fit=crop&w=600&q=80"
                 alt="Parvej Ahmed"
                 className="w-full max-w-md mx-auto rounded-2xl shadow-lg"
               />
