@@ -25,7 +25,7 @@ const projects = [
     id: 4,
     title: "Healthcare App Redesign",
     description: "Improved patient satisfaction scores by 70% through accessible design and simplified appointment booking system.",
-    image: "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    image: "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
     tags: ["Healthcare", "Accessibility", "User Research"]
   }
 ];
@@ -73,16 +73,9 @@ const Work = () => {
                   {project.title}
                 </h3>
                 
-                <p className="text-gray-600 mb-6 leading-relaxed">
+                <p className="text-gray-600 leading-relaxed">
                   {project.description}
                 </p>
-                
-                <button className="inline-flex items-center text-gray-900 font-semibold hover:text-gray-600 transition-colors group/btn">
-                  View Case Study
-                  <svg className="ml-2 w-4 h-4 group-hover/btn:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                  </svg>
-                </button>
               </div>
             </div>
           ))}
