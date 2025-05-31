@@ -25,7 +25,7 @@ const projects = [
     id: 4,
     title: "Healthcare App Redesign",
     description: "Improved patient satisfaction scores by 70% through accessible design and simplified appointment booking system.",
-    image: "/lovable-uploads/b45afc8a-7441-4490-994a-43466730085f.png",
+    image: "/lovable-uploads/5e73d2ab-0f6b-4fb7-a8a5-b0c95b5e206a.png",
     tags: ["Healthcare", "Accessibility", "User Research"]
   }
 ];
